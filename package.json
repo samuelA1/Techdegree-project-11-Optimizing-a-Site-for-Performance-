@@ -1,0 +1,36 @@
+{
+  "name": "project11",
+  "version": "1.0.0",
+  "description": "optimization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlloganjr/fewd-project11.git"
+  },
+  "author": "carlloganjr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlloganjr/fewd-project11/issues"
+  },
+  "homepage": "https://github.com/carlloganjr/fewd-project11#readme",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.7.0",
+    "gulp-if": "^2.0.2",
+    "gulp-jimp-resize": "^2.0.2",
+    "gulp-minify": "^1.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0",
+    "gulp-useref": "^3.1.2",
+    "gulp-wait": "0.0.2",
+    "uglify-js": "^3.0.28",
+    "uglify-js2": "^2.1.11"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0"
+  }
+}
